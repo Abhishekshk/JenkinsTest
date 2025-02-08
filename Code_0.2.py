@@ -1,1 +1,1 @@
-print("Hello This is a test case")
+print("Hello This is a case")
